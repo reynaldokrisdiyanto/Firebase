@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448581986653",
+    "firebase_url": "https://examplefirebase-1b5ea.firebaseio.com",
+    "project_id": "examplefirebase-1b5ea",
+    "storage_bucket": "examplefirebase-1b5ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448581986653:android:8b01adc45180e3e22ea0b4",
+        "android_client_info": {
+          "package_name": "praktikum.reynaldo.examplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448581986653-meoe8vo3u50e3mp489roa6e1mcm5de12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pWkNNLf1de34DBPVmYsNbVRCx0F0vYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448581986653-meoe8vo3u50e3mp489roa6e1mcm5de12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
